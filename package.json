@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "export": "next export",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o storybook-build"
   },
@@ -26,3 +27,5 @@
     "typescript": "^4.1.3"
   }
 }
+
+
