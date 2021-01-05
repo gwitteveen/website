@@ -15,5 +15,5 @@ const Template: Story<never> = (args) => <Button {...args} />;
 
 export const Primary = Template.bind({});
 Primary.args = {
-  children: "Primary button!",
+  children: "Primary button",
 };
