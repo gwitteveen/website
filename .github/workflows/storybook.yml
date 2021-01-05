@@ -1,4 +1,4 @@
-name: Build and Deploy # https://dev.to/kouts/deploy-storybook-to-github-pages-3bij
+name: Build and Deploy Storybook # https://dev.to/kouts/deploy-storybook-to-github-pages-3bij
 on:
   push:
     paths: ["stories/**", "components/*/**"] # Trigger the action only when files change in the folders defined here
